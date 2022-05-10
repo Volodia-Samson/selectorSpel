@@ -2,7 +2,7 @@ li {
     margin-bottom: 16px;
 }
 
-[target="_blank"] {
+[href][target] {
     border: 2px solid black;
 }
 
