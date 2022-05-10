@@ -2,7 +2,7 @@ li {
     margin-bottom: 16px;
 }
 
-[href][target] {
+[target="_blank"] {
     border: 2px solid black;
 }
 
@@ -22,6 +22,6 @@ a[href*="www"] {
     color: green;
 }
 
-a[title~="popular"] {
+a[title="super-popular"] {
     font-size: 24px;
 }
