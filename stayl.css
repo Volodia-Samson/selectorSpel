@@ -25,3 +25,7 @@ a[href*="www"] {
 a[title~="popular"] {
     font-size: 24px;
 }
+
+[title="super-popular"]{
+    font-size: 24px;
+}
